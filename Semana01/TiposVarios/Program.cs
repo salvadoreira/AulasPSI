@@ -6,14 +6,25 @@ namespace TiposVarios
     {
         static void Main(string[] args)
         {
+            //Variáveis Inteiras.
             int numero = 23;
-            Console.WriteLine(numero);
             uint i = 4U;
-            console.WriteLine(i);
             ulong d = 7UL;
-            console.WriteLine(d);
             long c = 2UL;
-            console.WriteLine(c);
+
+            //Variáveis Reais.
+            float n1 = 7f;
+            double n2 = 22;
+            decimal n3 = 44m;
+
+
+            Console.WriteLine(numero);
+            Console.WriteLine(i);
+            Console.WriteLine(d);
+            Console.WriteLine(c);
+            Console.WriteLine(n1);
+            Console.WriteLine(n2);
+            Console.WriteLine(n3);
         }
     }
 }
