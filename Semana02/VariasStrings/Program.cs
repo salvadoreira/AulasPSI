@@ -15,6 +15,9 @@ namespace VariasStrings
 
             string b = @"C:\Users\Salvador\Documents";
             Console.WriteLine(b);
+
+            string f = "A Guiné não tem símbolo de copyright \u00A9";
+            Console.WriteLine(f);
         }
     }
 }
