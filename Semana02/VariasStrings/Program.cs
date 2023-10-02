@@ -9,6 +9,17 @@ namespace VariasStrings
         {
             Console.OutputEncoding = Encoding.UTF8;
             
+            double dd = 0.12345;
+            int ii = 18;
+
+            // Variável dd.
+            Console.WriteLine($" {dd:F2} ");
+            Console.WriteLine($" {dd:P1} ");
+
+            // Variável ii.
+            Console.WriteLine($" {ii:X} ");
+            Console.WriteLine($" {ii:C} ");
+
             // Variáveis de Apoio.
             int x = 10, y  = 5, r = x + y;
 
@@ -33,8 +44,6 @@ namespace VariasStrings
             Console.WriteLine(bf);
             string fb = $@"{s} + {b} + {f} verbatim {x}";
             Console.WriteLine(fb);
-
-            
         }
     }
 }
