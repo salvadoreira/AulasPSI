@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariasStrings", "VariasStrings\VariasStrings.csproj", "{8ACA9DC6-0299-4E86-B3EA-3C64489B6AA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncDec", "IncDec\IncDec.csproj", "{1667924A-5DEA-4259-90AB-0686AC4DBFF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{8ACA9DC6-0299-4E86-B3EA-3C64489B6AA5}.Release|x64.Build.0 = Release|Any CPU
 		{8ACA9DC6-0299-4E86-B3EA-3C64489B6AA5}.Release|x86.ActiveCfg = Release|Any CPU
 		{8ACA9DC6-0299-4E86-B3EA-3C64489B6AA5}.Release|x86.Build.0 = Release|Any CPU
+		{1667924A-5DEA-4259-90AB-0686AC4DBFF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1667924A-5DEA-4259-90AB-0686AC4DBFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1667924A-5DEA-4259-90AB-0686AC4DBFF0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1667924A-5DEA-4259-90AB-0686AC4DBFF0}.Debug|x64.Build.0 = Debug|Any CPU
+		{1667924A-5DEA-4259-90AB-0686AC4DBFF0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1667924A-5DEA-4259-90AB-0686AC4DBFF0}.Debug|x86.Build.0 = Debug|Any CPU
+		{1667924A-5DEA-4259-90AB-0686AC4DBFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1667924A-5DEA-4259-90AB-0686AC4DBFF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1667924A-5DEA-4259-90AB-0686AC4DBFF0}.Release|x64.ActiveCfg = Release|Any CPU
+		{1667924A-5DEA-4259-90AB-0686AC4DBFF0}.Release|x64.Build.0 = Release|Any CPU
+		{1667924A-5DEA-4259-90AB-0686AC4DBFF0}.Release|x86.ActiveCfg = Release|Any CPU
+		{1667924A-5DEA-4259-90AB-0686AC4DBFF0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
